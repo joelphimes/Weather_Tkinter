@@ -1,2 +1,2 @@
 # Weather_Tkinter
-simple gui for weather in area using tkinter
+Basic GUI for weather in specfied area using tkinter.
